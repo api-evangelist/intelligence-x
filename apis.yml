@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/intelligen
 name: Intelligence X
 description: "Perform OSINT via Intelligence X"
 url: https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
