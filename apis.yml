@@ -39,7 +39,6 @@ apis:
   - name: Intelligence X
     description: "Perform OSINT via Intelligence X"
     humanURL: https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf
-    baseURL: https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf
     tags:
       - Security
     properties:
